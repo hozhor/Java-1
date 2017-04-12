@@ -2,7 +2,8 @@ package ysx1;
 
 public class HelloWorld {
 	public static void main (String[] args){
-		System.out.println("»¶Ó­À´µ½billxinµÄÊÀ½ç£¡");
+		System.out.println("Â»Â¶Ã“Â­Ã€Â´ÂµÂ½billxinÂµÃ„ÃŠÃ€Â½Ã§Â£Â¡");
 		System.out.println("hello world");
+		System.out.println("èŒèŒè¾¾!");
 	}
 }
